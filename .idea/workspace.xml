@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806bd459-d856-49f6-b2af-11afb6d57ec1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/arzx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/confluence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/deepl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/laoxiong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/leetcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/modao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/noteso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/processon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/questmobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/tools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logos/yuque.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/palmpay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logos/palmpay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/yinxiang.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logos/yinxiang.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/zentao.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logos/zentao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cn/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,18 +19,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cn/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="522" selection-start-line="522" selection-end-line="522" />
+            <state relative-caret-position="557">
+              <caret line="277" column="22" selection-start-line="277" selection-start-column="22" selection-end-line="277" selection-end-column="22" />
               <folding>
                 <element signature="n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#12;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#17;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#18;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#19;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#15;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -69,6 +55,7 @@
       <find>图标待</find>
       <find>网页灵感</find>
       <find>交互设计</find>
+      <find>leetcode</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,6 +139,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/logos" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -177,13 +165,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6054000" />
+    <option name="totallyTimeSpent" value="6487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14620355" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14620355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -198,7 +186,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2613293" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.56344414" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
@@ -293,18 +281,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="522" selection-start-line="522" selection-end-line="522" />
+        <state relative-caret-position="557">
+          <caret line="277" column="22" selection-start-line="277" selection-start-column="22" selection-end-line="277" selection-end-column="22" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#12;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#17;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#18;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#19;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#15;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
